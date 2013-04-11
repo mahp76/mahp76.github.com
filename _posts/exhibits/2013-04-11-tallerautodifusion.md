@@ -1,7 +1,7 @@
 ---
 layout: default
 category: exhibit
-title: "El titulo del exhibit"
+title: "Taller Autodifusión"
 section: "Noticias"
 
 published: true
