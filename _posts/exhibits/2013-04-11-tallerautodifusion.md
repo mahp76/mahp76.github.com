@@ -7,6 +7,6 @@ section: "Noticias"
 published: true
 ---
 
-# Taller de Autodifusión
+
 
 Texto de prueba.
